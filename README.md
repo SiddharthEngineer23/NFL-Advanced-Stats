@@ -1,7 +1,7 @@
 # NFL-Advanced-Stats
 
 Here are some notes on specific stats:
-median rush
+- median rush
 median pass
 time of possession/#of rush
 completion percentage * (passes >7 yards)
