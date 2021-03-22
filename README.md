@@ -1,5 +1,7 @@
 # NFL-Advanced-Stats
 
+This repository contains the python function for pulling specific stats (listed below) and the regression curve in R.
+
 Here are some notes on specific stats:
 - median rush
 - median pass
