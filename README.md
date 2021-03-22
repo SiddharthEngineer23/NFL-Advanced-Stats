@@ -19,9 +19,3 @@ Here are some notes on specific stats:
 - win differential
 - median rush yards inside 20
 - number of plays
-
-
-incomplete_df = pass_df[(team_df['incomplete_pass'] == 1)]
-incompletions = incomplete_df.size()
-completion percentage = (1 - incompletions) / pass_df.size()
-
